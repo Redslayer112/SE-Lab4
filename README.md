@@ -9,7 +9,7 @@
 | Deliverable | File |
 |---|---|
 | Updated code | [`19_battleship/`](19_battleship) |
-| Report | [`PES2UG24CS579_SE_Lab4.docx`](PES2UG24CS579_SE_Lab4.docx) |
+| Report | [`PES2UG24CS579_SE_Lab4.pdf`](PES2UG24CS579_SE_Lab4.pdf) (source: [`.docx`](PES2UG24CS579_SE_Lab4.docx)) |
 | Before / after screenshots | [`screenshots/`](screenshots) |
 | Chat history | link above |
 
