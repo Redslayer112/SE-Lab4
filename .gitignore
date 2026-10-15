@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.~lock.*#
+5J-LAB4 allocation.xlsx
